@@ -8,3 +8,5 @@ DB_USERNAME=
 DB_PASSWORD=
 DB_DATABASE=
 DB_SYNC=true
+
+for other question please read answer.md
